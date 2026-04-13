@@ -1,22 +1,27 @@
-![image](mark_lg.svg)
+![image](512x512.svg)
 
-# packge icon for marker your libs php
+## icon packge for marker your libs php
 
-## files
+### Image scales
 
-- mark_lg.png
-- mark_lg.svg
+all files disponible
 
-can you use is free
+- 164x164
+- 256x256
+- 512x512
+
+you can use is free
 
 ### SVG format
 
 ```md
-https://github.com/cefasMoises/emblemPackgePhp/blob/main/mark_lg.svg
+https://github.com/cefasMoises/emblemPackgePhp/blob/main/512x512.svg
 ```
 
 ### PNG format
 
 ```md
-https://github.com/cefasMoises/emblemPackgePhp/blob/main/mark_lg.png
+https://github.com/cefasMoises/emblemPackgePhp/blob/main/512x512.png
 ```
+
+by:pedromoisesjulieta8@gmail.com
