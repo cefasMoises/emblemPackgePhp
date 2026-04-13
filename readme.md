@@ -2,11 +2,9 @@
 <img src="256x256.png" alt="logomark">
 </p>
 
-<p align="center">
-<h1>icon packge for mark your libs php</h1>
-</p>
+# Icon packge for mark your libs php
 
-### Image scales
+## Image scales
 
 all files disponible
 
