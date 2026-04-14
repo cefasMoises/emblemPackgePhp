@@ -1,6 +1,7 @@
 <p align="center">
-<img src="256x256.png" alt="logomark">
 <img src="dark.svg" alt="logomark" width="256px" heigth="256px">
+<img src="512x512.svg" alt="logomark" width="256px" heigth="256px">
+
 </p>
 
 # Icon packge for mark your libs php
